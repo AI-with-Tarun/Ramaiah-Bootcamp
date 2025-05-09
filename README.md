@@ -2,11 +2,11 @@
 
 ​4-day bootcamp on Large Language models focused on Open Source LLMs, Prompt Engineering, RAG, Vector database, and Agents.
 
-​> Tech Stack: HuggingFace, SambaNova Systems, LlamaIndex, Qdrant, LangGraph, and Agno
+> Tech Stack: HuggingFace, SambaNova Systems, LlamaIndex, Qdrant, LangGraph, and Agno
 
-​### Session dates:
+### Session dates
 
-​- 8th May 2025: 10 AM to 12:30 PM
+- 8th May 2025: 10 AM to 12:30 PM
 - 9th May 2025: 14:00 PM to 17:00 PM
 - 16th May 2025: 10:AM to 12:30 PM
 - 22nd May 2025: 14:00 PM to 17:00 PM
